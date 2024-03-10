@@ -54,7 +54,10 @@
 			<artifactId>javax.annotation-api</artifactId>
 			<version>LATEST</version>
 		</dependency>
-
+		<dependency>
+			<groupId>org.liquibase</groupId>
+			<artifactId>liquibase-core</artifactId>
+		</dependency>
 
 
 
